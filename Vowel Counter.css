@@ -1,0 +1,15 @@
+#inputDiv, #headerDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+div.card.align {
+    margin-left: auto;
+}
+
+textarea {
+    width: 100%;
+}
